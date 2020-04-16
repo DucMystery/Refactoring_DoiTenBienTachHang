@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e79933-6941-44ac-8b98-5ca9422dd52c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aczGN29MRtVVjfK0QgMmur90BM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="Calculator" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e79933-6941-44ac-8b98-5ca9422dd52c" name="Default Changelist" comment="" />
+      <created>1587049573771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587049573771</updated>
+      <workItem from="1587049575419" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="131" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587050076752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="131" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1587050076752" />
+    <state x="549" y="190" width="438" height="481" key="RefactorJ.WrapReturnValue" timestamp="1587050059105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="190" width="438" height="481" key="RefactorJ.WrapReturnValue/0.0.1536.824@0.0.1536.824" timestamp="1587050059105" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1587050723513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587050723513" />
+  </component>
+</project>
